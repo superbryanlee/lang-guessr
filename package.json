@@ -1,0 +1,17 @@
+{
+  "name": "langguessr",
+  "version": "1.0.0",
+  "description": "Decipher the language of given text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Bryan",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "franc": "^6.0.0",
+    "langs": "^2.0.0"
+  }
+}
